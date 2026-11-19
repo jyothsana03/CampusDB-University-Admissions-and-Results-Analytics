@@ -1,0 +1,7 @@
+programme_id,programme_code,programme_name,dept_id,level,seats
+1,BCS,B.Sc Computer Science,1,UG,60
+2,MDS,M.Sc Data Science,1,PG,50
+3,BMA,B.Sc Mathematics,2,UG,40
+4,MST,M.Sc Statistics,2,PG,30
+5,MBA,MBA Analytics,3,PG,50
+6,BBT,B.Sc Biotechnology,4,UG,40

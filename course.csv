@@ -1,0 +1,49 @@
+course_id,course_code,title,credits,semester,programme_id
+1,BCS110,Programming in Python,4,1,1
+2,BCS120,Discrete Mathematics,3,1,1
+3,BCS210,Data Structures,4,2,1
+4,BCS220,Digital Logic,3,2,1
+5,BCS310,Database Systems,4,3,1
+6,BCS320,Operating Systems,3,3,1
+7,BCS410,Computer Networks,3,4,1
+8,BCS420,Software Engineering,3,4,1
+9,MDS110,Statistics for Data Science,4,1,2
+10,MDS120,Python for Analytics,4,1,2
+11,MDS210,Linear Algebra,3,2,2
+12,MDS220,Probability Theory,3,2,2
+13,MDS310,DBMS for Analytics,4,3,2
+14,MDS320,Machine Learning,4,3,2
+15,MDS410,Big Data Systems,3,4,2
+16,MDS420,Data Visualisation,3,4,2
+17,BMA110,Calculus I,4,1,3
+18,BMA120,Algebra I,4,1,3
+19,BMA210,Calculus II,4,2,3
+20,BMA220,Real Analysis I,4,2,3
+21,BMA310,Differential Equations,3,3,3
+22,BMA320,Linear Algebra,3,3,3
+23,BMA410,Numerical Methods,3,4,3
+24,BMA420,Abstract Algebra,4,4,3
+25,MST110,Probability Distributions,4,1,4
+26,MST120,Statistical Inference,4,1,4
+27,MST210,Regression Analysis,4,2,4
+28,MST220,Sampling Theory,3,2,4
+29,MST310,Multivariate Analysis,4,3,4
+30,MST320,Time Series,3,3,4
+31,MST410,Bayesian Methods,3,4,4
+32,MST420,Design of Experiments,3,4,4
+33,MBA110,Managerial Economics,3,1,5
+34,MBA120,Financial Accounting,3,1,5
+35,MBA210,Marketing Analytics,3,2,5
+36,MBA220,Operations Management,3,2,5
+37,MBA310,Business Statistics,4,3,5
+38,MBA320,Corporate Finance,3,3,5
+39,MBA410,People Analytics,3,4,5
+40,MBA420,Strategy,3,4,5
+41,BBT110,Cell Biology,4,1,6
+42,BBT120,Biochemistry,4,1,6
+43,BBT210,Genetics,4,2,6
+44,BBT220,Microbiology,3,2,6
+45,BBT310,Molecular Biology,4,3,6
+46,BBT320,Bioinformatics,3,3,6
+47,BBT410,Immunology,3,4,6
+48,BBT420,Bioprocess Engineering,3,4,6

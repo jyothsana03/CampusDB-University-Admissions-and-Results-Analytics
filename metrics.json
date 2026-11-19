@@ -1,0 +1,29 @@
+{
+  "total_rows": 6461,
+  "tables": 7,
+  "students": 411,
+  "below_5": 58,
+  "overall_pass_pct": 93.7,
+  "admitted_2021": 68,
+  "admitted_2025": 100,
+  "mds_2021": 9,
+  "mds_2025": 22,
+  "bma_2021": 12,
+  "bma_2025": 9,
+  "band_80plus": 8.52,
+  "band_below60": 4.63,
+  "hardest": [
+    [
+      "Operating Systems",
+      86.7
+    ],
+    [
+      "Sampling Theory",
+      87.0
+    ],
+    [
+      "Business Statistics",
+      87.3
+    ]
+  ]
+}

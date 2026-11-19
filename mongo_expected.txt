@@ -1,0 +1,27 @@
+PIPELINE 1  weekly activity per course: 813 course-weeks
+course_code       week  logins  submissions  active_students
+     BBT110 2025-07-28       3            0                3
+     BBT110 2025-08-04       6            0                5
+     BBT110 2025-08-11       6            0                4
+     BBT110 2025-08-18       7            4                8
+     BBT110 2025-08-25       4            4                5
+     BBT110 2025-09-01       2            0                2
+
+events per week across all courses: min 71, max 358 (peak week starting 2026-02-02)
+
+PIPELINE 2  engagement vs exam results (AY 2025-26)
+            engagement  enrolments  avg_mark_pct  pass_rate_pct
+     1 Low (<6 events)         176          52.7           84.1
+2 Medium (6-11 events)         323          62.7           98.5
+   3 High (12+ events)         250          73.7          100.0
+
+correlation(events in term, final mark %) = 0.62 over 749 enrolments
+
+PIPELINE 3  late-submission rate by programme
+prefix  submissions  late_pct  avg_score
+   BBT          270      21.1       67.0
+   BCS          578      24.6       63.9
+   BMA          227      22.0       66.9
+   MBA          425      26.4       66.1
+   MDS          420      26.2       63.2
+   MST          228      21.1       64.5
